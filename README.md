@@ -4,5 +4,8 @@
 
   <div>
    <h2>𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:</h2>
-  <a style="display:flex; justify-content:center;" href="https://instagram.com/felipe.abg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://instagram.com/felipe.abg" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
 </div>
