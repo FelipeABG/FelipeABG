@@ -1,7 +1,9 @@
- <div>
+<div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://github.com/FelipeABG">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeABG&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeABG&layout=compact&langs_count=7&theme=tokyonight" />
+  </a>
 </div>
+
  
   <div>
    <h2>𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:</h2>
